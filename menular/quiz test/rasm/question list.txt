@@ -1,0 +1,180 @@
+﻿Q.1: O'rta Osiyo geografiyasiga kim asos solgan?
+      option 0 : Abu Rayxon Beruniy  ok
+      option 1 : Ibn Sino  
+      option 2 : Erotosfen
+      option 3 : Xorazmiy             
+
+Q.2:O`rta Osiyodagi eng ko'p sonli va eng yirik millat qaysi?
+      option 0 : qozoqlar 
+      option 1 : tojiklar  
+      option 2 : o'zbeklar   ok
+      option 3 : qirg`izlar     
+
+Q.3: Hozirgi dunyo xaritasida nechta davlat bor?
+      option 0 : 170 ta                 
+      option 1 : 140 ta         
+      option 2 : 230 ta   ok
+      option 3 : 150 ta
+
+Q.4: Tayanch mamlakatlarini aniqlang?
+      option 0 : Angliya, Fransiya
+      option 1 : Hindiston, Braziliya  ok
+      option 2 : AQSh, Kanada 
+      option 3 : Italiya, Ispaniya 
+
+Q.5: Tugamaydigan resurslarga nimalar kiradi?
+      option 0 : O'simlik va hayvonot dunyosi 
+      option 1 : Shamol, quyosh, yerning ichki energiyasi  ok
+      option 2 : Mineral tuzlar, suv
+      option 3 : Barchasi to'g'ri
+
+Q.6: Jahon yer fondining umumiy maydoni qanchaga teng?
+      option 0 : 15 milyard gektar 
+      option 1 : 11 milyard gektar   
+      option 2 : 9,5 milyard gektar 
+      option 3 : 13,4 milyard gektar    ok  
+
+Q.7: "Tinchlik yo'lida hamkorlik"dasturi qaysi tashkilot tomonidan qabul qilingan? 
+      option 0 : BMT  
+      option 1 : Yunesko 
+      option 2 : Nato  ok
+      option 3 : MDH
+
+Q.8: Jahondagi aholisi eng yirik shahar qaysi? 
+      option 0 : Tokio    ok
+      option 1 : Mexiko   
+      option 2 : London 
+      option 3 : Nyu-York 
+
+Q.9: Aholisi zichligi bo'yicha eng yuqori bo`lgan hudud? 
+      option 0 : Yevropa    ok
+      option 1 : Avstraliya  
+      option 2 : Osiyo
+      option 3 : Shimoliy Amerika
+
+Q.10: Avstraliya qanday ma'noni anglatadi
+      option 0 : Janubiy-Sharqiy       
+      option 1 : Janubiy 
+      option 2 : Shimoliy 
+      option 3 : Materik orol      ok
+
+Q.11: Quyidagi tog 'lar ichida eng balandini aniqlang
+      option 0 : Kavkaz 
+      option 1 : Pomir 
+      option 2 : Karpat
+      option 3 : Himolay   ok
+
+Q.12: Shimoliy Amerikada eng sersuv daryo qaysi?
+      option 0 : Kalarado    ok
+      option 1 : Kolumbiya
+      option 2 : Yukon   
+      option 3 : Missisipi      
+
+Q.13: Yer shariningquruqlikdagi eng past nuqtasi qayerda joylashgan? 
+      option 0 : O'lik d engiz      
+      option 1 : Kaspiy dengizi      
+      option 2 : Mariana botig'i	 ok
+      option 3 : Assal dengizi       
+
+Q.14: Avstraliya materigining necha foizi berk havza?
+     option 0 : 40%
+     option 1 : 50%
+     option 2 : 60%       ok
+     option 3 : 70%      
+
+Q.15: Avstraliya materigi berk havzasi bo'yicha dunyoda nechanchi o'rinda turadi?
+     option 0 : 4 
+     option 1 : 3  
+     option 2 : 2
+     option 3 : 1    ok      
+
+Q.16: Quyosh Yerdan necha marta katta?
+      option 0 : 1 mln 500 ming marta      ok
+      option 1 : 1 mln 400 ming marta
+      option 2 : 1 mln 300 ming marta
+      option 3 : 1 mln 200 ming marta      
+
+Q.17: Yerdan Quyoshgacha bo’lgan masofa qancha?
+      option 0 : 150 mln km    ok 
+      option 1 : 160 mln km 
+      option 2 : 165 mln km
+      option 3 : 170 mln km      
+
+Q.18: Yer yuzadagi eng baland tog’ cho’qqisini aniqlang?
+      option 0 : Klimanjaro cho’qqisi
+      option 1 : Mak-Kinli cho’qqisi
+      option 2 : Jomolungma cho’qqisi    ok
+      option 3 : Akonkagua cho’qqisi      
+
+Q.19: "Geografiya” atamasini birinchi bo’lib fanga kim kiritgan?
+      option 0 : Falas   
+      option 1 : Pifagor   
+      option 2 : Arastu
+      option 3 : Eratosfen       ok   
+
+Q.20: Hozirgi vaqtda dunyo siyosiy haritasida nechta mustaqil davlat bor?
+      option 0 : 150ta
+      option 1 : 169 ta     ok
+      option 2 : 189 ta
+      option 3 : 220 ta      
+
+Q.21: Yangi Zelandiyani poytaxti qaysi javobda to’g’ri ko’rsatilgan?
+      option 0 : Bellington    ok
+      option 1 : Rim
+      option 2 : Tokio 
+      option 3 : Islomobod      
+
+Q.22: Unitar so’zining ma’nosi nima?
+      option 0 : ittifoq
+      option 1 : birlashma   
+      option 2 : yaxlit, yagona      ok
+      option 3 : to’g’ri javob yo’q      
+
+Q.23: Dunyoda aholi soni bo’yicha eng ko’p bo’lgan davlat qaysi?
+      option 0 : Xitoy          ok
+      option 1 : Hindiston
+      option 2 : AQSh
+      option 3 : Yaponiya      
+
+Q.24: O’zbekistonda aholining umr ko’rish yoshi qancha? 
+      option 0 : 69        ok
+      option 1 : 70 
+      option 2 : 75
+      option 3 : 80      
+
+Q.25: O’zbekistonga qo’shni davlatlarni belgilang.
+      option 0 : Tojikiston
+      option 1 : Turkmaniston Qozog’iston 
+      option 2 : Avg'oniston
+      option 3 : hamma javob to’g’ri    ok
+
+Q.26: O’rmonlar yerning qaysi qismida ko’p joylashgan?
+      option 0 : sharqiy 
+      option 1 : g’arbiy    ok
+      option 2 : shimoliy
+      option 3 : janubiy      
+
+Q.27: Olmos qayerdan qazib olinadi?
+      option 0 : Litva 
+      option 1 : Latviya 
+      option 2 : Namibiya
+      option 3 : Indoneziya    ok    
+
+Q.28: Rossiyaning chegaradosh davlatlari nechta?
+      option 0 : 4 
+      option 1 : 8 
+      option 2 : 12
+      option 3 : 16       ok
+
+Q.29: Osiyo so’zining ma’nosi?
+      option 0 : sharq, kun chiqar    ok
+      option 1 : g’arb, kun botar  
+      option 2 : shimol
+      option 3 : janub      
+
+Q.30: Xitoyda qancha millat va elat yashaydi?
+      option 0 : 60 dan ortiq     ok
+      option 1 : 100 dan ortiq  
+      option 2 : 120 dan ortiq
+      option 3 : 150 dan ortiq      
+         
